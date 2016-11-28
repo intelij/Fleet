@@ -14,7 +14,8 @@ Write a program that loads the state of the fleet from the input file “FleetSt
  
 For each instance type, the count of empty hosts (all slots empty)
 For each instance type, the count of full hosts (all slots filled)
-For each instance type, the count of the most filled hosts (having the smallest number of empty slots > 0). Both the host count and number of empty 
+For each instance type, the count of the most filled hosts (having the smallest number of empty slots > 0). 
+Both the host count and number of empty 
 slots must be written out in that order.
  
 The output file must have the following format:
