@@ -1,0 +1,2 @@
+fleet.Host
+fleet.InstanceType
